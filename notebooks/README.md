@@ -12,3 +12,10 @@ To update the env:
 ```
 conda env export | grep -v "^prefix: " > environment.yml
 ```
+
+To run the notebooks:
+
+```
+conda activate diversedrl
+jupyter notebook
+```
