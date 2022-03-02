@@ -18,7 +18,7 @@ from tqdm import trange
 from keras.models import Sequential
 from keras import losses
 import keras.backend as K
-from keras import optimizers
+from tensorflow.keras import optimizers
 
 sess = tf.compat.v1.InteractiveSession()            
        

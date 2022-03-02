@@ -1,5 +1,7 @@
 ## Step by step for running the model 
 
+The [chemprop](https://github.com/chemprop/chemprop) is also installed.
+
 To install the conda env:
 
 ```
