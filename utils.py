@@ -58,7 +58,7 @@ def reading_csv(config,property_identifier):
     elif property_identifier == "a2d":
         file_path = config.file_path_a2d    
     raw_labels = []
-        
+            
     with open(file_path, 'r') as csvFile:
         reader = csv.reader(csvFile)
         

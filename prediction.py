@@ -37,11 +37,11 @@ class Predictor(object):
 
         loaded_models = []
         if property_identifier == "jak2":
-            model_path = "predictor_models_jak2/model"
+            model_path = "/home/joao/documentos/DiverseDRL/predictor_models_jak2/model"
         elif property_identifier == "logP":
-            model_path = "predictor_models_logP/model"
+            model_path = "/home/joao/documentos/DiverseDRL/predictor_models_logP/model"
         elif property_identifier == "kor" or property_identifier == 'a2d':
-            model_path = "predictor_models_kor/model"
+            model_path = "/home/joao/documentos/DiverseDRL/predictor_models_kor/model"
             
         for i in range(5):
             
