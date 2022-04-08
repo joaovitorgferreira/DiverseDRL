@@ -21,7 +21,7 @@
 	"model_name_unbiased": "generator_model\\LSTM_2layer_adam_d3.hdf5",
 	"model_name_biased": "generator_model\\LSTM_2layer_adam_d3_updated",
 	"n_iterations": 75,
-	"n_to_generate": 5000,
+	"n_to_generate": 100,
     "n_policy": 7,
     "threshold_set": 2,
     "batch_size": 10,
