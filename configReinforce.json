@@ -4,6 +4,7 @@
 	"file_path_jak2": "data/jak2_data.csv",
 	"file_path_a2d": "data/data_clean_a2d.csv",
 	"file_path_kor": "data/data_clean_kop.csv",
+	"file_path_teste": "data/data_clean_teste.csv",
 	"file_path_generated": "data/generated",
 	"output": "createdSMILES/newSmiles_",
 	"paddSize": 65,
